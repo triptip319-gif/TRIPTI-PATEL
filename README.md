@@ -1,2 +1,0 @@
-# Tripti-Patel
-My code
